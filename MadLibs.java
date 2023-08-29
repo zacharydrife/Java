@@ -1,4 +1,9 @@
-public class MadLibs {
+package madLibs;
+import java.io.*;
+import java.util.*;
+
+
+public class madLibs {
 
 	public static void main(String[] args)throws FileNotFoundException {
 		// TODO Auto-generated method stub
